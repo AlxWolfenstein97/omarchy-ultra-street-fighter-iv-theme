@@ -188,15 +188,16 @@ wrong for you, fork and retune `colors.toml` without guilt.
   screenshots). **Not affiliated with, endorsed by, or sponsored by Capcom.**
   Just public pixels arranged into an Omarchy theme — no money, no official
   product.
-- Wallhaven IDs used for key art: `0qkrml`, `0jzoky`, `4yprgk`, `4yprgg`,
-  `0pdxje`, `eojgjw`, `4gel9d`, `8gg6eo`.
-- Steam store shots (Rolento jungle, Poison/Makoto ship, Hugo/Guy street,
-  Juri/Elena market, Decapre lab, Blanka/Abel factory, Ryu/Ken hadoken,
-  Dan/Fei Long elevator, Sagat/Balrog Jurassic, Cammy/Decapre rooftop,
-  Cody/Honda hangar, Bison/Ken lanterns) and the library-hero pad were checked
-  for HUD and title overlays before shipping — logo-bearing Wallhaven comps
-  (`49rvjd`), SNES collage (`492g5k`), and unrelated “hardcore gamer IQ”
-  collage (`nkz9qd`) were dropped on purpose.
+- Wallhaven IDs used for key art: `0qkrml`, `eojgjw`, `8gg6eo`.
+- Steam store shots kept (Rolento jungle, Poison/Makoto ship, Hugo/Guy street,
+  Decapre lab, Blanka/Abel factory, Ryu/Ken hadoken, Dan/Fei Long elevator,
+  Sagat/Balrog Jurassic, Ibuki/Decapre skate park, Cody/Honda hangar,
+  Bison/Ken lanterns) and the library-hero pad were checked for HUD, title
+  overlays, and Ultra-era roster/stage fit before shipping — logo-bearing
+  Wallhaven comps (`49rvjd`), SNES collage (`492g5k`), unrelated “hardcore
+  gamer IQ” collage (`nkz9qd`), plus Wallhaven IDs that weren’t Ultra-era
+  key art (`0jzoky`, `4yprgk`, `4yprgg`, `0pdxje`, `4gel9d`) and one Steam
+  store shot that didn’t belong (`ss` market pair) were dropped on purpose.
 - If Capcom hates this existing, they can say so and I’ll deal with the repo
   accordingly.
 
