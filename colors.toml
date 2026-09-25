@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Ultra Combo pack — Ultra amber + ink-splatter crimson on sumi-e void.
+# Loud accent for Limine / borders; pastel ANSI + lifted darker_background
+# for OmaVT/TTY (same slot split as Doom Eternal / Asphalt / HEV / Caged / KI / MGR / Stanley / SF6 / T2D).
+accent = "#FFB020"
+selection = "#2A1808"
+muted = "#6A5848"
+
+background = "#0C0A0E"
+dark_background = "#060508"
+darker_background = "#14100C"
+lighter_background = "#1C1612"
+
+foreground = "#F0E8E0"
+dark_foreground = "#8A7868"
+light_foreground = "#D4C4B0"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(FFB020ee) rgba(FF3A20ee) 45deg"
+hyprland_inactive_border = "rgba(2A1808aa)"
+
+red = "#FF3A20"
+yellow = "#FFB020"
+orange = "#FF8A30"
+green = "#6ACC7A"
+cyan = "#40D8E8"
+blue = "#5A8ADA"
+magenta = "#E85090"
+brown = "#8A5A38"
+
+bright_red = "#FF7A60"
+bright_yellow = "#FFD060"
+bright_green = "#90E0A0"
+bright_cyan = "#80E8F0"
+bright_blue = "#88A8E8"
+bright_magenta = "#F080B0"
