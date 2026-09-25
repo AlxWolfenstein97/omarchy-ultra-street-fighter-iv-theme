@@ -6,7 +6,9 @@ be a good idea? How you picked up 80s values and ideas from there? A few
 n-bombs and some mashing, sure, lots of friendships, some still lasting. Started
 in Vanilla, but the final version is here since that’s what peeps expect. Had
 its issues, but still — gotta respect the game that taught me a lot of what I
-know and who I am these days. In the words of Daigo Umehara (different game in
+know and who I am these days. Natural extension for your hypr system — the one
+I started with, the one that’s retro now, holy hell, still playable with friends
+til Steam dies. Good vibes. In the words of Daigo Umehara (different game in
 the series, but…): fighting games are something so great.
 
 What if your desktop matched Capcom’s *Ultra Street Fighter IV* **Ultra amber →
