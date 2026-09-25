@@ -1,12 +1,18 @@
 # Ultra Street Fighter IV — Omarchy theme
 
-Remember Focus Attack? Ultra Gauge filling while the ink-splash hits land?
-Hopefully you’re still in the lab — natural extension for your hypr system,
-aren’t fighting games how we all got here anyway? What if your desktop matched
-Capcom’s *Ultra Street Fighter IV* **Ultra amber → ink-splatter crimson** on a
-sumi-e void instead of another flat dark mode? Same dual-accent border trick as
-Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Rising,
-Stanley, SF6 & T2D — different arcade.
+Remember the game that gave you a mostly hardcore American community to fight
+against — to such a degree that you thought learning English through there would
+be a good idea? How you picked up 80s values and ideas from there? A few
+n-bombs and some mashing, sure, lots of friendships, some still lasting. Started
+in Vanilla, but the final version is here since that’s what peeps expect. Had
+its issues, but still — gotta respect the game that taught me a lot of what I
+know and who I am these days. In the words of Daigo Umehara (different game in
+the series, but…): fighting games are something so great.
+
+What if your desktop matched Capcom’s *Ultra Street Fighter IV* **Ultra amber →
+ink-splatter crimson** on a sumi-e void instead of another flat dark mode? Same
+dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016,
+Eternal, Caged, KI, Rising, Stanley, SF6 & T2D — different arcade.
 
 Fighting-game theme for [Omarchy](https://omarchy.org/). Inspired by the look of
 *Ultra Street Fighter IV* — **not affiliated with Capcom** (see
