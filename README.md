@@ -107,8 +107,8 @@ color and boxing, so don’t expect magic from the PNGs — the hand text is the
 good path.
 
 Screensaver / logo ASCII is a dense **ULTRA STREET FIGHTER IV** wordmark plus an
-Ultra Combo status panel (no empty lines). About / icon is a spiked **IV**
-monogram (same silhouette DNA as the stencil logo, no empty lines).
+Ultra Combo status panel (no empty lines). About / icon is a clean block **IV**
+monogram (tall I + sharp V, no empty lines).
 
 ### Unlock
 
