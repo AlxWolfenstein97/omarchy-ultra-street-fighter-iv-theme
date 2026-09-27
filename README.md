@@ -12,9 +12,8 @@ til Steam dies. Good vibes. In the words of Daigo Umehara (different game in
 the series, but…): fighting games are something so great.
 
 What if your desktop matched Capcom’s *Ultra Street Fighter IV* **Ultra amber →
-ink-splatter crimson** on a sumi-e void instead of another flat dark mode? Same
-dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016,
-Eternal, Caged, KI, Rising, Stanley, SF6 & T2D — different arcade.
+ink-splatter crimson** on a sumi-e void instead of another flat dark mode? Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Rising, Stanley, SF6 & T2D —
+different arcade.
 
 Fighting-game theme for [Omarchy](https://omarchy.org/). Inspired by the look of
 *Ultra Street Fighter IV* — **not affiliated with Capcom** (see
