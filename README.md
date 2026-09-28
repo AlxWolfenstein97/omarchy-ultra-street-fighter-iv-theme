@@ -8,8 +8,8 @@ in Vanilla, but the final version is here since that’s what peeps expect. Had
 its issues, but still — gotta respect the game that taught me a lot of what I
 know and who I am these days. Natural extension for your hypr system — the one
 I started with, the one that’s retro now, holy hell, still playable with friends
-til Steam dies. Good vibes. In the words of Daigo Umehara (different game in
-the series, but…): “Fighting game is something, so great!”
+til Steam dies. Good vibes. In the words of Daigo Umehara (EVO 2017, different
+game in the series, but…): “Fighting game, it’s something, so great!”
 
 What if your desktop matched Capcom’s *Ultra Street Fighter IV* **Ultra amber →
 ink-splatter crimson** on a sumi-e void instead of another flat dark mode? Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Rising, Stanley, SF6 & T2D —
